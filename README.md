@@ -55,12 +55,7 @@ I'm a passionate developer building modern applications for Apple platforms and 
 - [**Microsoft-Chat**](https://github.com/Seaus-tech/Microsoft-Chat) - Teams chat UI replication
 - [**FreeUp**](https://github.com/Seaus-tech/FreeUp) - macOS disk cleaner utility
 
----
 
-## 🤝 Let's Connect
-
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/YashB-byte)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://twitter.com/intent/follow?screen_name=YashB_byte)
 
 ---
 
