@@ -16,13 +16,11 @@
 
 I'm a passionate developer building modern applications for Apple platforms and the web. I specialize in SwiftUI, React, and creating high-performance cross-platform experiences.
 
-- 🔭 I'm currently working on **Aurora-Shell** - a sleek terminal theme
-- 🌱 I'm currently learning **Zig** and **systems programming**
+- 🔭 I'm currently working on **improving things**
 - 👯 I'm looking to collaborate on **open-source productivity tools**
-- 💬 Ask me about **SwiftUI, React, or terminal customization**
 - 📫 How to reach me: **yash@seaus.tech**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love retro gaming and chiptune music**
+- ⚡ Fun fact: **I love video gaming and dubstep music**
 
 ---
 
