@@ -18,7 +18,7 @@ I'm a passionate developer building modern applications for Apple platforms and 
 
 - 🔭 I'm currently working on **improving things**
 - 👯 I'm looking to collaborate on **open-source productivity tools**
-- 📫 How to reach me: **yash@seaus.tech**
+- 📫 How to reach me: **yash.behera@icloud.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love video gaming and dubstep music**
 
